@@ -12,3 +12,7 @@ add new versions as new files/commits.
 All CC0 (public domain):
 - `sky_6144.jpg`, `bust.glb`, `horse.glb`, `vase.glb` - Poly Haven (polyhaven.com)
 - `zeus.glb` - Greenough seated statue, Smithsonian Open Access 3D (3d.si.edu)
+
+## olympus-rush-v3/
+All CC0. `titan-hi.glb` / `titan-lo.glb`: Greenough seated statue, Smithsonian Open Access 3D (3d.si.edu), optimised with gltf-transform.
+`music.mp3`: "QaziJamJam (orchestral battle theme)" by Emma M. Andersson (looneybits), OpenGameArt.org (https://opengameart.org/content/qazijamjam-orchestral-battle-theme), CC0. Other files: same Poly Haven sources as olympus-rush/.
