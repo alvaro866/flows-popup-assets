@@ -22,3 +22,9 @@ Duck Dash demo minigame (Flows Wave popup).
 - `*.webp`: original art generated for Flows with ChatGPT image generation; free to use in Flows popups.
 - `*.ogg`: CC0 sound effects and music from OpenGameArt.org (rubberduck, Kenney, 0new4y, Tozan, LokiF); per-file sources in `duck-dash/LICENSES.md`.
 - `lilita-one-latin.woff2`: Lilita One by Juan Montoreano, SIL Open Font License 1.1 (`duck-dash/OFL.txt`).
+
+## cluck-drop/
+Cluck Drop demo minigame (Flows Wave popup).
+- `*.webp`: original art generated for Flows with ChatGPT image generation (btn_*, coin reused from duck-dash/).
+- `*.ogg`: CC0 sound effects, music and ambience (Freesound CC0 items, OpenGameArt CC0); per-file sources in `cluck-drop/LICENSES.md`.
+- `lilita-one-latin.woff2`: Lilita One, SIL Open Font License 1.1 (`cluck-drop/OFL.txt`).
