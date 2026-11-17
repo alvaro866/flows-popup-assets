@@ -28,3 +28,9 @@ Cluck Drop demo minigame (Flows Wave popup).
 - `*.webp`: original art generated for Flows with ChatGPT image generation (btn_*, coin reused from duck-dash/).
 - `*.ogg`: CC0 sound effects, music and ambience (Freesound CC0 items, OpenGameArt CC0); per-file sources in `cluck-drop/LICENSES.md`.
 - `lilita-one-latin.woff2`: Lilita One, SIL Open Font License 1.1 (`cluck-drop/OFL.txt`).
+
+## cauldron-club/
+Cauldron Club demo slot (Flows Wave popup).
+- `*.webp`: original 1930s rubber-hose style art generated for Flows with ChatGPT image generation (no existing IP).
+- `*.ogg` / `*.mp3`: CC0 music and sound effects (OpenGameArt CC0, Freesound CC0, Kenney CC0); sources in `cauldron-club/LICENSES.md`.
+- `limelight-latin.woff2`: Limelight, SIL Open Font License 1.1 (`cauldron-club/OFL.txt`).
