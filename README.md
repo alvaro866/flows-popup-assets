@@ -34,3 +34,7 @@ Cauldron Club demo slot (Flows Wave popup).
 - `*.webp`: original 1930s rubber-hose style art generated for Flows with ChatGPT image generation (no existing IP).
 - `*.ogg` / `*.mp3`: CC0 music and sound effects (OpenGameArt CC0, Freesound CC0, Kenney CC0); sources in `cauldron-club/LICENSES.md`.
 - `limelight-latin.woff2`: Limelight, SIL Open Font License 1.1 (`cauldron-club/OFL.txt`).
+
+## aperion-pilot/
+Bonus mini-game popups (Jackal's Gold, Sky Jet, Safe Cracker, Croc Cups, Balloon Pop), one folder per game.
+- `*.webp`: original art generated for Flows with ChatGPT image generation; free to use in Flows popups.
