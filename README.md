@@ -38,3 +38,8 @@ Cauldron Club demo slot (Flows Wave popup).
 ## aperion-pilot/
 Bonus mini-game popups (Jackal's Gold, Sky Jet, Safe Cracker, Croc Cups, Balloon Pop), one folder per game.
 - `*.webp`: original art generated for Flows with ChatGPT image generation; free to use in Flows popups.
+
+## neon-grand-prix/
+Neon Grand Prix race bonus popup.
+- `*.webp`: original art generated for Flows with ChatGPT image generation (invented vehicles/liveries, no third-party marks); free to use in Flows popups.
+- `flows_logo_white.png`: Flows logo (own brand).
